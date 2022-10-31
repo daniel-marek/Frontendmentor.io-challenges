@@ -78,7 +78,7 @@ a {
 .product__image {
   width: 50%;
   height: 100%;
-  background-image: url(/images/image-product-desktop.jpg);
+  background-image: url(/img/image-product-desktop.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; 
@@ -150,7 +150,7 @@ a {
   }
 
   .product__image {
-    background-image: url(/images/image-product-mobile.jpg);
+    background-image: url(/img/image-product-mobile.jpg);
   }
 
   .product__content {
